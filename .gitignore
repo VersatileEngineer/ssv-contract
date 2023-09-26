@@ -1,0 +1,18 @@
+node_modules
+.env
+.env.prod
+.env.stage
+#Hardhat files
+cache
+coverage
+coverage.json
+artifacts
+.openzeppelin/unknown-*
+subgraph/build
+.idea
+/incentivized_testnet/operators*
+/incentivized_testnet/validators*
+/incentivized_testnet/prod
+/incentivized_testnet/stage
+/incentivized_testnet/latest_metrics.json
+.DS_Store
